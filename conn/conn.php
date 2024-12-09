@@ -1,8 +1,8 @@
 <?php 
 
 $servername = "localhost";
-$username = "root";
-$password = "Acer@2024";
+$username = "username";
+$password = "password";
 $db = "task_db";
 
 try {
